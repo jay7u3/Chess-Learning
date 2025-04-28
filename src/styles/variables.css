@@ -1,0 +1,16 @@
+/* /styles/variables.css */
+:root {
+  /* Primary Colors */
+  --primary-blue: #335092;
+  --primary-blue-hover: #253b70;
+
+  /* Backgrounds */
+  --background-dark: #1f2937;
+
+  /* Text Colors */
+  --text-dark: #ffffff;
+
+  /* Shadows & Borders */
+  --border-radius: 20px;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
